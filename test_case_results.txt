@@ -1,0 +1,20 @@
+runfile('C:/Users/27828/.spyder-py3/number_in_words.py', wdir='C:/Users/27828/.spyder-py3')
+Trying to convert 536 to int
+Number: 536 in words is:  five hundred and thirty six 
+
+Trying to convert 9121 to int
+Number: 9121 in words is:  nine thousand one hundred and twenty one 
+
+Trying to convert 65678 to int
+Number: 65678 in words is:  sixty five thousand six hundred and seventy eight 
+
+Trying to convert 10022 to int
+Number: 10022 in words is:  ten thousand and twenty two 
+
+Trying to convert 66723107008 to int
+Number: 66723107008 in words is: sixty six billion seven hundred and twenty three million one hundred thousand and eight 
+
+Invalid Input: I received 23 456,9 KGs.
+
+Trying to convert 10000001 to int
+Number: 10000001 in words is: ten million and one 
